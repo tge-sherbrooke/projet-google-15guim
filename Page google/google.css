@@ -1,0 +1,117 @@
+header 
+{
+	max-width: 100%;
+}
+
+.barreTop
+{
+	height: 65px;
+	width: 50%;
+	float: left;
+	display: flex;
+	align-items: center;
+	font-size: 13px;
+}
+
+#Topleft
+{
+	
+}
+
+#Topleft a
+{
+	padding-left: 15px;	
+}
+
+#Topright
+{
+	justify-content: flex-end;
+}
+
+#Topright a
+{
+	padding-right: 15px;
+}
+
+.barreBas
+{
+	height: 100%;
+	width: 50%;
+	float: left;
+	display: flex;
+	align-items: center;
+	font-size: 14px;
+}
+
+#Basleft a
+{
+	padding-left: 15px;
+	padding-right: 15px;	
+}
+
+#Basright
+{
+	justify-content: flex-end;
+}
+
+#Basright a
+{
+	padding-left: 15px;	
+	padding-right: 15px;
+}
+
+.centre
+{
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#main
+{
+	height: 95vh;
+	align-items: center;
+	justify-content: center;
+}
+
+#Image
+{
+	padding-top: 125px;
+}
+
+#Navigateur
+{
+	padding-top: 6px;
+}
+
+#searchBar
+{
+	width: 300px;
+}
+
+#Boutons
+{
+	padding-top: 10px;
+}
+
+#Boutons input
+{
+	display: flex;
+	align-items: center;
+	margin: 10px;
+}
+
+body 
+{
+    font-family: arial,sans-serif;
+	margin: 0px;
+}
+
+footer
+{
+	height: 40px;
+	border-top: 1px solid #E4E4E4;
+	background: #F2F2F2;
+}
+
